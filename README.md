@@ -1,4 +1,20 @@
-**eoscmd** is a cross-platform tool to access EOS blockchain from command line. It is implemented using .Net core and uses [EOSDotNet](https://github.com/eosnewyork/EOSDotNet) from EOSNewYork. Currenctly It is published for win-x64, linux-x64 and osx-x64 platforms. Other platforms that it can be built for are listed [here](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog).
+
+**eoscmd** is a cross-platform tool to access EOS blockchain from command line. It is implemented using .Net core and uses [EOSDotNet](https://github.com/eosnewyork/EOSDotNet) from EOSNewYork. Currenctly It is published for win-x64, linux-x64 and osx-x64 platforms. Other platforms that it can be built for are listed [here](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog). Its capabilities include - 
+
+ 1. Generate keys
+ 2. Push action - with off-chain/offline signing using private key in WIF
+ 3. Push transaction - with off-chain/offline signing using private key in WIF
+ 4. Get account
+ 5. Get currency balance
+ 6. Get table rows
+ 7. Get info
+ 8.  Abi bin to json
+ 9. Abi json to bin
+ 10. Get block
+ 11. Get abi
+ 12. Get code
+ 13. Get raw code and abi 
+ 14. Get producer schedule
 
 ## Using eoscmd
 

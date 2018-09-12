@@ -1,3 +1,4 @@
+[Download linux-x64, osx-x64 or win-x64 build](https://github.com/yatendra/eoscmd/releases)
 
 **eoscmd** is a cross-platform tool to access EOS blockchain from command line. It is implemented using .Net core and uses [EOSDotNet](https://github.com/eosnewyork/EOSDotNet) from EOSNewYork. Currenctly It is published for win-x64, linux-x64 and osx-x64 platforms. Other platforms that it can be built for are listed [here](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog). Its capabilities include - 
 
